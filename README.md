@@ -1,2 +1,3 @@
-# hello_world
-exercising GIT
+# goodby_world
+reverting in GIT
+GT
