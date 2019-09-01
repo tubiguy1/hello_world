@@ -1,3 +1,4 @@
-# goodby_world
-reverting in GIT
-GT
+# Crazy stuff
+Doing crazy stuff in git
+
+Linoy
