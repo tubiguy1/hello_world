@@ -1,5 +1,3 @@
-# Crazy stuff
-Doing crazy stuff in git
-
+# What ?!
 Linoy
 What is going on ???
