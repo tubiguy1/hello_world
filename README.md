@@ -1,4 +1,3 @@
-# Crazy stuff
-Doing crazy stuff in git
+# hello_world
 
-Linoy
+Guy, 31 years old.
